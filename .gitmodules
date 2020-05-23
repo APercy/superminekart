@@ -1,3 +1,12 @@
 [submodule "minekart"]
 	path = minekart
 	url = https://github.com/APercy/minekart.git
+[submodule "checkpoints"]
+	path = checkpoints
+	url = https://github.com/APercy/checkpoints.git
+[submodule "trackelements"]
+	path = trackelements
+	url = https://github.com/APercy/trackelements.git
+[submodule "biofuel"]
+	path = biofuel
+	url = https://github.com/APercy/minetest_biofuel.git
