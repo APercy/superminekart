@@ -1,7 +1,7 @@
-Racing
+Super Mine Kart
 =======
 
-This is a very strange modpack. This mod started as an idea after I watched a replay of a 1991 Formula 1 race, where it showed Ayrton Senna's first victory in a race at Brazil, his country (and mine too). As it would be too ambitious to adapt the minetest for F1, I decided to do something fun, a kart race. Without so much commitment to real life, but with some interesting things, like your car getting faster as it consumes fuel and some that can be noticed while playing.
+This is a very strange modpack for minetest. This mod started as an idea after I watched a replay of a 1991 Formula 1 race, where it showed Ayrton Senna's first victory in a race at Brazil, his country (and mine too). As it would be too ambitious to adapt the minetest for F1, I decided to do something fun, a kart race. Without so much commitment to real life, but with some interesting things, like your car getting faster as it consumes fuel and some that can be noticed while playing.
 
 So, this strange modpack is dedicated to Ayrton Senna
 
